@@ -1,0 +1,104 @@
+{
+  "user1": {
+    "username": "user1",
+    "password": "256:85ac4a31522f5113e5ec19e575a5ad7b:70ad173499996dc546462a2432346cc1861b0774fd25c4933f4ffbe2144cd359aecc2caf2ea82b5abe2d5700d467ef111a82c5e06f05d430611b9b424870fed1",
+    "friends": [
+      "user2",
+      "user4",
+      "user5",
+      "user10",
+      "user3",
+      "user9",
+      "user13",
+      "user55",
+      "user0"
+    ],
+    "points": 81
+  },
+  "user2": {
+    "username": "user2",
+    "password": "256:1d4a426c468aceb8b844e62efca1c832:2c894587cda1f8152032bbfc2351a0c0cb1f8c62e894fbc20367417d7df86573b064a77b3cec39870ab18f8c014f1c537fb4dabb5adc6e90b8f1874c7dca5108",
+    "friends": [
+      "user1",
+      "user3"
+    ],
+    "points": 78
+  },
+  "user3": {
+    "username": "user3",
+    "password": "256:ff17522dcd522c0b6b84c35da51b1707:c583888d33b920d9eb4fc1dee366b3b5b298d7b56bb9e6d0df7c0f0bee5050d59abe9cca49121492a8aac51bbc79f06af6041dac52953e9d0f1c23e630787e2a",
+    "friends": [
+      "user1",
+      "user10",
+      "user2"
+    ],
+    "points": 27
+  },
+  "user4": {
+    "username": "user4",
+    "password": "256:0fb915db8f1cb2e5210f8b169ff93231:124d9dd1f4370c8ad73d38645dac6393674e484388fb78bd7bde573d161ca6ab2f95da7c7ed7e56daf438511a37c6d85d520b6b2a4dfd32c2661b7c35a5ffec3",
+    "friends": [
+      "user1"
+    ],
+    "points": 1
+  },
+  "user5": {
+    "username": "user5",
+    "password": "256:65e173d1d37f6dfe8562f09b2463208e:e3ddde7e14c2710664869a97bd3b1e397811e1f4d5e6dc0dd1ad7d147c6043694ea199f3d67a57a7aa8da2396d71372426946abc9b29bbc07e24a999de037e8d",
+    "friends": [
+      "user1"
+    ],
+    "points": 17
+  },
+  "user10": {
+    "username": "user10",
+    "password": "256:408be26692a0e384af3f7c2a94197f22:e2abbf0406f50ce0e364e5d3deb1d3d38e4c7d6e61f856bb1c0710c73239c2315a90bca8baa3a43603bfac1d673491b96cfcb1c043b89715adcdc38ebe8bb06e",
+    "friends": [
+      "user1",
+      "user3",
+      "user13"
+    ],
+    "points": 4
+  },
+  "user9": {
+    "username": "user9",
+    "password": "256:6401c309b8c2fa3b2cd0d38bcf6e412e:d4706ec4b768355757e899a25f1801bff724baebcc5e298915b03fbb21e493688517ce9f6bdee057df0b75fd47a81ab577fa2acb6eecf38b9d0dd7d2a19f70d8",
+    "friends": [
+      "user1"
+    ],
+    "points": 0
+  },
+  "user13": {
+    "username": "user13",
+    "password": "256:b2f9982b9ea09eae767b723a02ef933f:eae0a20e297c711ccf96a60d3c8fc0e721d77904d961ab8bdc372fc71220e7087556792f71a8e03b8e6265018bbede0d61b1aaa008fda621bf7a8117dcf679dd",
+    "friends": [
+      "user1",
+      "user55",
+      "user10"
+    ],
+    "points": 2
+  },
+  "user55": {
+    "username": "user55",
+    "password": "256:41acda7277d090dcb39beda894cb6297:7aa36d64673109348a129cbeca87462989b4247dca39544e0a2336d6c01a30b7ff4794682138dd20c5fa8f8b19cca70f1c9f51a4f1ff4a340cb79e2575e13288",
+    "friends": [
+      "user1",
+      "user13"
+    ],
+    "points": 1
+  },
+  "user8": {
+    "username": "user8",
+    "password": "256:cc86dfb297cec9417146338ee983ff71:9a5a6e05353772ba5c235e2b63080328f1671e0db412e7b89161f549ba70382038421542cd749c9f2e008e6b3bd4f64c40444a4e70c4579d4c9864c1c594eef2",
+    "friends": [],
+    "points": 0
+  },
+  "user0": {
+    "username": "user0",
+    "password": "256:89183251a79cff1c614a5090f14dfd3a:814bc49cabc4375c671b6bb9b136770bc8c5ab2838a39e42208e4a05a65620e6590ae3a63f1bdfe76a9b8d23516483f4a9762003d0e81076800dc0ea70721e04",
+    "friends": [
+      "user1"
+    ],
+    "points": 1
+  }
+}
