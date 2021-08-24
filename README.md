@@ -1,2 +1,1 @@
-# LPR
-LPR (Laboratorio Programmazione di Rete) material
+# LPR (Laboratorio Programmazione di Rete) material
